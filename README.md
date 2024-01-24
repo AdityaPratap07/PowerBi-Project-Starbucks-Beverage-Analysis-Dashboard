@@ -1,0 +1,2 @@
+# PowerBi-Project-Starbucks-Beverage-Analysis-Dashboard
+☕✨ Starbucks Beverage Analysis Dashboard ☕📊    Just brewed up a data-driven journey through your favorite Starbucks beverages! 🌐 Explore caffeine content, nutritional breakdowns, and carbohydrate compositions. Dive in, make informed choices! 💡💻   #Starbucks hashtag#DataViz hashtag#CoffeeLovers hashtag#PowerBI hashtag#NutritionAnalysis hashtag#
